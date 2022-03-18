@@ -1,7 +1,4 @@
----
-description: Dart is a client-optimized language for fast apps on any platform.
----
-
 # Dart
+---
 
 Dart是一个用于快速构建跨平台应用的面向对象编程语言。

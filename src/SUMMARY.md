@@ -133,6 +133,9 @@
   - [1.5 类](flutter/1-dart/1.5-lei.md)
   - [1.6 异步](flutter/1-dart/1.6-yi-bu.md)
   - [1.7 其它特性](flutter/1-dart/1.7-qi-ta-te-xing.md)
+- [2 Flutter基础](flutter/2-flutter-ji-chu/README.md)
+  - [2.1 开发环境](flutter/2-flutter-ji-chu/2.1-ka-fa-huan-jing.md)
+  - [2.2 组件基础](flutter/2-flutter-ji-chu/2.2-zu-jian-ji-chu.md)
 
 # HTTP
 
