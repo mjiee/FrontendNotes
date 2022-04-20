@@ -1,8 +1,5 @@
----
-description: TypeScript
----
-
 # TypeScript简介
+---
 
 TypeScript是基于JavaScript的强类型语言。TypeScript是兼容JavaSript的，它提供了类型系统，适合大型项目。
 
