@@ -96,31 +96,26 @@
   - [2.3 声明文件](ts/2-ts-za-xiang/2.3-sheng-ming-wen-jian.md)
   - [2.4 杂项](ts/2-ts-za-xiang/2.4-za-xiang.md)
 
-# Framework
+# React
 
-- [前端框架](frame/README.md)
-- [1 React](frame/1-react/README.md)
-  - [1.1 开发环境](frame/1-react/1.1-kai-fa-huan-jing.md)
-  - [1.2 JSX语法](frame/1-react/1.2-jsx-yu-fa.md)
-  - [1.3 渲染组件](frame/1-react/1.3-xuan-ran-zu-jian.md)
-  - [1.4 组件参数](frame/1-react/1.4-zu-jian-can-shu.md)
-  - [1.5 组件状态](frame/1-react/1.5-zu-jian-zhuang-tai.md)
-  - [1.6 事件处理](frame/1-react/1.6-shi-jian-chu-li.md)
-  - [1.7 List和Form](frame/1-react/1.7-list-he-form.md)
-  - [1.8 高级特性](frame/1-react/1.8-gao-ji-te-xing.md)
-  - [1.9 React Router](frame/1-react/1.9-react-router.md)
-- [2 Redux](frame/2-redux/README.md)
-  - [2.1 Redux](frame/2-redux/2.1-redux.md)
-  - [2.2 React-Redux](frame/2-redux/2.2-react-redux.md)
-  - [2.3 Redux Toolkit](frame/2-redux/2.3-redux-toolkit.md)
-  - [2.4 RTK Query](frame/2-redux/2.4-rtk-query.md)
-- [3 SolidJS](frame/3-solidjs/README.md)
-  - [3.1 开发基础](frame/3-solidjs/3.1-kai-fa-ji-chu.md)
-  - [3.2 状态和参数](frame/3-solidjs/3.2-zhuang-tai-he-can-shu.md)
-  - [3.3 绑定属性](frame/3-solidjs/3.3-bang-ding-shu-xing.md)
-  - [3.4 流程控制](frame/3-solidjs/3.4-liu-cheng-kong-zhi.md)
-  - [3.5 动态加载](frame/3-solidjs/3.5-dong-tai-jia-zai.md)
-- [n WebAssembly](frame/n-wasm/README.md)
+- [React框架](react/README.md)
+- [1 React基础](react/1-react/README.md)
+  - [1.1 开发环境](react/1-react/1.1-kai-fa-huan-jing.md)
+  - [1.2 JSX语法](react/1-react/1.2-jsx-yu-fa.md)
+  - [1.3 渲染组件](react/1-react/1.3-xuan-ran-zu-jian.md)
+  - [1.4 组件参数](react/1-react/1.4-zu-jian-can-shu.md)
+  - [1.5 组件状态](react/1-react/1.5-zu-jian-zhuang-tai.md)
+  - [1.6 事件处理](react/1-react/1.6-shi-jian-chu-li.md)
+  - [1.7 List和Form](react/1-react/1.7-list-he-form.md)
+  - [1.8 高级特性](react/1-react/1.8-gao-ji-te-xing.md)
+- [2 Redux](react/2-redux/README.md)
+  - [2.1 Redux](react/2-redux/2.1-redux.md)
+  - [2.2 React-Redux](react/2-redux/2.2-react-redux.md)
+  - [2.3 Redux Toolkit](react/2-redux/2.3-redux-toolkit.md)
+  - [2.4 RTK Query](react/2-redux/2.4-rtk-query.md)
+- [3 第三方库](react/3-lib/README.md)
+  - [3.1 React Router](react/3-lib/3.1-react-router.md)
+  - [3.2 react国际化](react/3-lib/3.2-react-guo-ji-hua.md)
 
 # Flutter
 
@@ -159,8 +154,15 @@
   - [4.6 国际化](flutter/4-gong-neng-zu-jian/4.6-guo-ji-hua.md)
   - [4.7 其它功能](flutter/4-gong-neng-zu-jian/4.7-qi-ta-gong-neng.md)
 
-# HTTP
+# Other
 
-- [HTTP简介](http/README.md)
-- [GraphQL](http/graphql.md)
+- [杂项](other/README.md)
+- [1 GraphQL](other/1-gql/graphql.md)
+- [2 WebAssembly](other/2-wasm/README.md)
+- [3 SolidJS](other/3-solidjs/README.md)
+  - [3.1 开发基础](other/3-solidjs/3.1-kai-fa-ji-chu.md)
+  - [3.2 状态和参数](other/3-solidjs/3.2-zhuang-tai-he-can-shu.md)
+  - [3.3 绑定属性](other/3-solidjs/3.3-bang-ding-shu-xing.md)
+  - [3.4 流程控制](other/3-solidjs/3.4-liu-cheng-kong-zhi.md)
+  - [3.5 动态加载](other/3-solidjs/3.5-dong-tai-jia-zai.md)
 
