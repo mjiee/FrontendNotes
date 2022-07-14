@@ -113,6 +113,7 @@
   - [2.2 React-Redux](react/2-redux/2.2-react-redux.md)
   - [2.3 Redux Toolkit](react/2-redux/2.3-redux-toolkit.md)
   - [2.4 RTK Query](react/2-redux/2.4-rtk-query.md)
+  - [2.5 Redux-Rersist](react/2-redux/2.5-redux-persist.md)
 - [3 第三方库](react/3-lib/README.md)
   - [3.1 React Router](react/3-lib/3.1-react-router.md)
   - [3.2 react国际化](react/3-lib/3.2-react-guo-ji-hua.md)
