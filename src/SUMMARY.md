@@ -155,6 +155,12 @@
   - [4.6 国际化](flutter/4-gong-neng-zu-jian/4.6-guo-ji-hua.md)
   - [4.7 其它功能](flutter/4-gong-neng-zu-jian/4.7-qi-ta-gong-neng.md)
 
+# Tauri
+
+- [Tauri简介](tauri/README.md)
+- [1 Tauri基础](tauri/1-tauri-ji-chu/README.md)
+  - [1.1 开发环境](tauri/1-tauri-ji-chu/1.1-kai-fa-huan-jing.md)
+
 # Other
 
 - [杂项](other/README.md)
